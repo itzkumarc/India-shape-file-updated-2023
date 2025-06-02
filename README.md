@@ -21,10 +21,7 @@ This repository provides updated and accurate shapefiles for **India's state and
 import geopandas as gpd
 
 # Load state shapefile
-states = gpd.read_file("india_states_2023.shp")
-
-# Load district shapefile
-districts = gpd.read_file("india_districts_2023.shp")
+states = gpd.read_file("india_states_boundary.shp")
 
 # Plot districts
 districts.plot()
