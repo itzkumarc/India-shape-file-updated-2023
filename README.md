@@ -7,12 +7,6 @@ This repository provides updated and accurate shapefiles for **India's state and
 - Data visualization and cartography
 - Mapping projects at national, state, or district levels
 
-## 📁 Contents
-
-- `india_states_2023.shp` – State boundaries (2023)
-- `india_districts_2023.shp` – District boundaries (2023)
-- Associated files: `.dbf`, `.shx`, `.prj`, `.cpg`, etc.
-
 ## 🧭 Features
 
 - Based on the latest administrative boundaries (as of 2023)
