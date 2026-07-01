@@ -25,3 +25,4 @@ states = gpd.read_file("India_State_Shapefile/India_State_Boundary.shp")
 
 # Plot states
 states.plot()
+```
